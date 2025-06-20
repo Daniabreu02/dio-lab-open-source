@@ -6,7 +6,7 @@
       Temas
     </td>
     <td>
-       <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md">
+       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Daniabreu02" alt="GitHub Streak" /></a>
           github-readme-streak-stats/docs/themes.md
        </a>
     </td>
@@ -37,7 +37,7 @@
 
 | Preview | Parameters |
 |:-------:|:----------:|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=elidianaandrade&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) | `theme=bear` `background=000` `dates=FFF`|
+|[![GitHub Streak](https://streak-stats.demolab.com?user=Daniabreu02)](https://git.io/streak-stats) | `theme=bear` `background=000` `dates=FFF`|
 
 ```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
